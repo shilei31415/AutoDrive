@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AutoDrive10_23"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shilei/桌面/AutoDrive10-23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/shilei/桌面/AutoDrive10-23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shilei/桌面/AutoDrive10-23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AutoDrive10_23">
+				<Option output="/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/AutoDrive10_23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shilei/桌面/AutoDrive10-23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shilei/桌面/AutoDrive10-23/include"/>
+					<Add directory="/home/shilei/桌面/AutoDrive10-23/Lidar"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 AutoDrive10_23"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AutoDrive10_23/fast">
+				<Option output="/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/AutoDrive10_23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shilei/桌面/AutoDrive10-23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shilei/桌面/AutoDrive10-23/include"/>
+					<Add directory="/home/shilei/桌面/AutoDrive10-23/Lidar"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 AutoDrive10_23/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/C3iroboticsLidar.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/C3iroboticsLidar.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/C3iroboticsLidarProtocol.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CArcTime.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CArcTime.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CCountDown.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CCountDown.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CDeviceConnection.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CDeviceConnection.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CLidarPacket.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CLidarPacket.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CLidarPacketReceiver.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CLidarPacketReceiver.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CLidarUnpacket.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CLidarUnpacket.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CLogUtitls.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CSerialConnection.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CSerialConnection.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CSimulateSerial.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CSimulateSerial.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CTime.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/CTime.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Lidar/typedef.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/SerialPort.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/SerialPort.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Setter.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/Setter.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/camera.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/camera.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/data.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/fun.h">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/main.cpp">
+			<Option target="AutoDrive10_23"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/shilei/桌面/AutoDrive10-23/../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

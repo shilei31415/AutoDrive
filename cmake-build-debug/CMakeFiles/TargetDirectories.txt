@@ -1,0 +1,3 @@
+/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shilei/桌面/AutoDrive10-23/cmake-build-debug/CMakeFiles/AutoDrive10_23.dir
